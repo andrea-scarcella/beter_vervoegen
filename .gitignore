@@ -1,0 +1,11 @@
+*reshaper.user
+[Dd]ebug/
+[Rr]elease/
+build/
+[Bb]in/
+[Oo]bj/
+*.suo
+*.sln.cache
+_ReShaper.*/
+*.user
+packages/**/*
