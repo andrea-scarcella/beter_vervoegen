@@ -9,3 +9,4 @@ build/
 _ReShaper.*/
 *.user
 packages/**/*
+/BeterVervoegen/packages/**/*
